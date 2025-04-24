@@ -8,6 +8,20 @@ No hype. No marketing. Just the techniques.
 
 ---
 
+## ⚠️ Disclaimer
+
+This book is intended **solely for educational and research purposes**. It covers adversarial prompt engineering, red teaming, and security testing techniques used to evaluate the robustness of LLM-based systems.
+
+By using this material, you agree to the terms outlined in the [DISCLAIMER.md](DISCLAIMER.md).
+
+- Do **not** apply these techniques to any system you do not own or have explicit permission to test.
+- Unauthorized use may violate laws such as the CFAA, DMCA, and international equivalents.
+- The authors and contributors accept **no liability** for misuse or legal consequences.
+
+> This is a guide for building safer AI systems—not breaking them irresponsibly.
+
+---
+
 ## Scope
 
 This guide covers:
