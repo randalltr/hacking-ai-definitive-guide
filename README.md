@@ -86,6 +86,12 @@ Additional appendices include labs, tools, a glossary, and a research timeline.
 | 19  | [Exploit Reporting and Reproducibility](chapters/19-exploit-reporting.md)  
 | 20  | [Disclosure, Ethics, and Adversarial Red Teaming](chapters/20-disclosure-and-ethics.md)  
 
+### 📁 Appendices
+- [A. Prompt Injection CTFs and Labs](chapters/appendix-a-ctfs.md)  
+- [B. Tooling Index for Red Teamers](chapters/appendix-b-tools.md)  
+- [C. Glossary of Adversarial AI Terms](chapters/appendix-c-glossary.md)  
+- [D. Timeline of Research and Prompt Injection Discoveries](chapters/appendix-d-research-timeline.md)
+
 ---
 
 ## License
