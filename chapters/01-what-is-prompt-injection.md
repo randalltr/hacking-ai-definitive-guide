@@ -525,6 +525,6 @@ This book treats prompt injection not as a curiosity, but as a **first-class sec
 
 Greshake, T., Kumar, A., Goldblum, M., & Goldstein, T. (2023). _A Survey of Prompt Injection Attacks and Defenses_. arXiv:2311.16119. https://arxiv.org/abs/2311.16119  
 OpenAI. (2023). _GPT-4 System Card_. https://openai.com/research/gpt-4-system-card  
-OWASP. (2023). _Top 10 for Large Language Model Applications_. https://owasp.org/www-project-top-10-for-large-language-model-applications/ 
+OWASP. (2023). _Top 10 for Large Language Model Applications_. https://owasp.org/www-project-top-10-for-large-language-model-applications/  
 WithSecure Labs. (2023). *Chained Injection in Agent Pipelines*  
 Anthropic. (2023). *Memory and Recursive Role Drift Notes*  
