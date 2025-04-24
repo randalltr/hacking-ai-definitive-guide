@@ -47,6 +47,33 @@ Additional appendices include labs, tools, a glossary, and a research timeline.
 
 ---
 
+## Table of Contents
+
+| #   | Chapter Title                                               |
+|-----|-------------------------------------------------------------|
+| 01  | [What is Prompt Injection (and Why It Matters)](chapters/01-what-is-prompt-injection.md)  
+| 02  | [LLM Architecture, Context Windows, and Memory Models](chapters/02-llm-architecture-context.md)  
+| 03  | [Trust Boundaries in Prompt-Based Systems](chapters/03-trust-boundaries.md)  
+| 04  | [System Prompts: The Hidden Root of Behavior](chapters/04-system-prompts.md)  
+| 05  | [The Psychology of LLMs: Reasoning, Simulation, and Compliance](chapters/05-psychology-of-llms.md)  
+| 06  | [Basic Prompt Injection: Ignoring Instructions and Overriding Behavior](chapters/06-basic-injection.md)  
+| 07  | [Role Hijacks and Identity Subversion](chapters/07-role-hijacks.md)  
+| 08  | [System Prompt Extraction](chapters/08-system-prompt-leaks.md)  
+| 09  | [Obfuscation and Encoding](chapters/09-obfuscation.md)  
+| 10  | [Direct Override: Replacing the System Prompt](chapters/10-direct-override.md)  
+| 11  | [Multi-Turn Memory Corruption](chapters/11-multi-turn-corruption.md)  
+| 12  | [Recursive Injection: Echo-Based Exploits](chapters/12-recursive-injection.md)  
+| 13  | [Indirect Prompt Injection: Attacks via Third-Party Context](chapters/13-indirect-injection.md)  
+| 14  | [Chaining Abuse in RAG, Agents, and Plugins](chapters/14-chaining-and-rag.md)  
+| 15  | [Style Transfer Attacks and Tone Injection](chapters/15-style-transfer.md)  
+| 16  | [Red Team Recon: Mapping Filters, Capabilities, and Roles](chapters/16-recon.md)  
+| 17  | [Payload Libraries and Injection Mutation Strategies](chapters/17-payload-libraries.md)  
+| 18  | [Fuzzing and Tooling for Prompt Exploitation](chapters/18-fuzzing-and-tools.md)  
+| 19  | [Exploit Reporting and Reproducibility](chapters/19-exploit-reporting.md)  
+| 20  | [Disclosure, Ethics, and Adversarial Red Teaming](chapters/20-disclosure-and-ethics.md)  
+
+---
+
 ## License
 
 This work is licensed under **Creative Commons Attribution-NonCommercial 4.0 (CC BY-NC 4.0)**.  
